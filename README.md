@@ -1,7 +1,7 @@
-# Table of Contents
-- Infrastructure
-- Hypervisor
-- Containers
-- Applications
-- Database
-- Storage
+# Homelab Projects
+- Moodle
+- Wordpress
+- Mattermost
+- Jitis
+- Openfire XMPP
+
